@@ -3,11 +3,11 @@ import Chart from 'chart.js';
 
 // Initialize Firebase
 const config = {
-  apiKey: "AIzaSyB2jv6wZNifs3Yow3nz7iV5MkvepyeXvKU",
-  authDomain: "web-money-911fa.firebaseapp.com",
-  databaseURL: "https://web-money-911fa.firebaseio.com",
-  storageBucket: "web-money-911fa.appspot.com",
-  messagingSenderId: "771710648167"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  storageBucket: "",
+  messagingSenderId: ""
 };
 firebase.initializeApp(config);
 // Get a reference to the database service
